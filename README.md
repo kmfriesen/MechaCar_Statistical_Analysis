@@ -1,5 +1,9 @@
 # MechaCar_Statistical_Analysis
 
+# Overview
+
+
+
 # Linear Regression to Predict MPG
 The MechaCar_mpg.csv file was uploaded as a dataframe, and linear regression was performed in order to predict the mpg of MechaCar prototypes.
 ![alt text](https://github.com/kmfriesen/MechaCar_Statistical_Analysis/blob/main/Images/R1.png)
