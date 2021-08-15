@@ -2,7 +2,7 @@
 
 # Linear Regression to Predict MPG
 The MechaCar_mpg.csv file was uploaded as a dataframe, and linear regression was performed in order to predict the mpg of MechaCar prototypes.
-![alt text]()
+![alt text](https://github.com/kmfriesen/MechaCar_Statistical_Analysis/blob/main/Images/R1.png)
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
@@ -19,9 +19,9 @@ The linear model does not predict the mpg of the prototypes effectively because 
 # Summary Statistics on Suspension Coils
 The suspension coils dataset was used to create two summaries that showcase summary statistics for all manufacturing lots together, (the total summary) and the individual summary by lot (lot summary).
 
-![alt text]()
+![alt text](https://github.com/kmfriesen/MechaCar_Statistical_Analysis/blob/main/Images/total_summary.png)
 
-![alt text]()
+![alt text](https://github.com/kmfriesen/MechaCar_Statistical_Analysis/blob/main/Images/lot_summary.png)
 
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
@@ -30,11 +30,11 @@ Since the variance of all lots together is 62.29 psi and is below 100 pounds per
 # T-Tests on Suspension Coils
 T-tests were performed to determine if the PSI across all manufacturing lots and the PSI across each lot individually is statistically different from the population mean of 1,500 PSI.
 
-![alt text]()
+![alt text](https://github.com/kmfriesen/MechaCar_Statistical_Analysis/blob/main/Images/t_test_all_lots.png)
 
 The t-test above shows that the mean of the sample, as can also be seen in the "Mean" section of the total summary table, is 1,498.78 psi. The resulting p-value is 0.06, and assuming our siginifcance level is 0.05, we can assume that we do not have sufficient evidence to reject the null hypothesis, meaning that the mean for all manufacturing lots of 1,498.78 psi is statistically similar to the population mean of 1,500 psi.
 
-![alt text]()
+![alt text](https://github.com/kmfriesen/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot1.png)
 
 The t-test result above shows that the mean for lot 1, as can also be seen in the "Mean" section of the lot summary table for Lot 1, is 1,500 psi. The resulting p-value is 1, which is above the siginifcance level of 0.05, so we can assume that we do not have sufficient evidence to reject the null hypothesis, as there is no difference statistically from Lot 1's resulting mean and the population mean of 1,500 psi.
 
