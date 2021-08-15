@@ -38,11 +38,11 @@ The t-test above shows that the mean of the sample, as can also be seen in the "
 
 The t-test result above shows that the mean for lot 1, as can also be seen in the "Mean" section of the lot summary table for Lot 1, is 1,500 psi. The resulting p-value is 1, which is above the siginifcance level of 0.05, so we can assume that we do not have sufficient evidence to reject the null hypothesis, as there is no difference statistically from Lot 1's resulting mean and the population mean of 1,500 psi.
 
-![alt text]()
+![alt text](https://github.com/kmfriesen/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot2.png)
 
 The t-test above shows that the mean for lot 2, as can also be seen in the "Mean" section of the lot summary table for Lot 2, is 1,500.2 psi. The resulting p-value is about 0.6, which is above the siginifcance level of 0.05, so we can assume that we do not have sufficient evidence to reject the null hypothesis, meaning that the mean for Lot 2 of 1,500.2 psi is statistically similar to the population mean of 1,500 psi.
 
-![alt text]()
+![alt text](https://github.com/kmfriesen/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot3.png)
 
 The t-test above shows that the mean for lot 3, as can also be seen in the "Mean" section of the lot summary table for Lot 3, is 1,496.14 psi. The resulting p-value is 0.041, and which is below the siginifcance level is 0.05, so we can reject the null hypothesis, meaning that the mean for Lot 3 of 1,496.14 psi is not statistically similar to the population mean of 1,500 psi.
 
